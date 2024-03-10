@@ -1,0 +1,12 @@
+[submodule "db-service"]
+	path = db-service
+	url = https://github.com/IsmailSKR/db-service.git
+[submodule "domain-service"]
+	path = domain-service
+	url = https://github.com/IsmailSKR/domain-service.git
+[submodule "auth-service"]
+	path = auth-service
+	url = https://github.com/IsmailSKR/auth-service.git
+[submodule "FRONT-APP"]
+	path = FRONT-APP
+	url = https://github.com/IsmailSKR/FRONT-APP.git
